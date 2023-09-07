@@ -4,18 +4,18 @@
 
 My favourite game is [the game everyone has to play](https://genshin.hoyoverse.com). I play also at [Star Rail](https://hsr.hoyoverse.com). I wait for [Project Mugen](https://www.projectmugen.com).
 
-![image](https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_4.png?ab8cb15b8aa36d2a097049a34627701c&d=200x200)
+![hu_tao_note](https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_4.png?ab8cb15b8aa36d2a097049a34627701c&d=200x200)
 
 More seriously (or not...)
 
 I work in 
-  1. C++ (newbie, level 12/90)
-  1. Python (ancient, level 63)
-  1. SQLite (beginner, level 35)
-  1. My IDE is the best, it's the [JetBrains](https://www.jetbrains.com) panoply 😎
+  1. C++ (newbie, level 12/90) [![cpp](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  1. Python (ancient, level 63) [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+  1. SQLite (beginner, level 35) [![sql](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+  1. My IDE is the best, it's the [JetBrains](https://www.jetbrains.com) panoply 😎 ![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 I know my profile is unbelievable, but quit **NOW** and go install *[the game everyone has to play](https://genshin.hoyoverse.com)*
 
-![image](https://i.pinimg.com/originals/7c/63/9d/7c639dfbbf73786afbe3b90580e06d73.png)
+![paimon_strong](https://i.pinimg.com/originals/7c/63/9d/7c639dfbbf73786afbe3b90580e06d73.png)
 
 
