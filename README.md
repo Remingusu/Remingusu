@@ -1,9 +1,9 @@
-I'm ~~Elon~~ *Remingusu*
+# I need to introduce myself ?
 
-I play [this](https://genshin.hoyoverse.com), [this](https://hsr.hoyoverse.com) and I wait for [this](https://www.projectmugen.com/)
+~~I'm me !~~ I'm @Remingusu. I live in the **earth**. I'm the same age as *someone* else in the world. If you want to meet me, found me or just see my [blog](https://blogs.mtdv.me/blog/posts/user_personal_data_copyt)
 
-My [blog](https://blogs.mtdv.me/blog/posts/user_personal_data_copyt) on personal data I stole.
+My favourite game is [the game everyone has to play](https://genshin.hoyoverse.com). I play also at [Star Rail](https://hsr.hoyoverse.com). I wait for [Project Mugen](https://www.projectmugen.com).
 
-I already work with : [![My Skills](https://skillicons.dev/icons?i=py,cpp,css,html,java,js,sqlite,discord,git,github,idea,md,raspberrypi,stackoverflow)](https://skillicons.dev)
+![image](https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-hutao/sticker_4.png?ab8cb15b8aa36d2a097049a34627701c&d=200x200)
 
-(***I'll upgrade later beacause it's sucks***)
+More seriously (or not...)
