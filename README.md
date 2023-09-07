@@ -12,7 +12,7 @@ I work in
   1. C++ (newbie, level 12/90) [![cpp](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
   1. Python (ancient, level 63) [![python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
   1. SQLite (beginner, level 35) [![sql](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-  1. My IDE is the best, it's the [JetBrains](https://www.jetbrains.com) panoply 😎 ![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+  1. My IDE is the best, it's the [JetBrains](https://www.jetbrains.com) panoply 😎 [![idea](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 I know my profile is unbelievable, but quit **NOW** and go install *[the game everyone has to play](https://genshin.hoyoverse.com)*
 
