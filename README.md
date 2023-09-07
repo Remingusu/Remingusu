@@ -16,4 +16,6 @@ I work in
 
 I know my profile is unbelievable, but quit **NOW** and go install *[the game everyone has to play](https://genshin.hoyoverse.com)*
 
+![image](https://i.pinimg.com/originals/7c/63/9d/7c639dfbbf73786afbe3b90580e06d73.png)
+
 
