@@ -40,4 +40,4 @@ Now that you've got the information, get the hell out and go install *[The game 
 > 
 > *SilverWolf* here.
 > 
-> I just stole your **data**. Come and get it here: ***[link](blogs.motiondevelopment.top/giveaways/59WtWcBL1S)*** (haha, it's a safe link, don't **worry**)
+> I just stole your **data**. Come and get it here: ***[link](http://blogs.motiondevelopment.top/giveaways/59WtWcBL1S)*** (haha, it's a safe link, don't **worry**)
