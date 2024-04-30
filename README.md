@@ -1,7 +1,14 @@
-![Header](github-header-image.png)
+![Header](github-header.png)
 
 ## Skills
-
+<p align="center">
+  <a>
+    I do:<br>
+    <img src="https://skillicons.dev/icons?i=py,cpp,qt,sqlite,bots&perline=4" /><br><br>
+    I learn: <br>
+    <img src="https://skillicons.dev/icons?i=unity&perline=4" />
+  </a>
+</p>
 
 ## More about me
 ### Video games
