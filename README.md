@@ -4,9 +4,9 @@
 <p align="center">
   <a>
     I do:<br>
-    <img src="https://skillicons.dev/icons?i=py,cpp,qt,sqlite,bots&perline=4" /><br><br>
+    <img src="https://skillicons.dev/icons?i=py,cpp,sqlite,bots&perline=4" /><br><br>
     I learn: <br>
-    <img src="https://skillicons.dev/icons?i=unity&perline=4" />
+    <img src="https://skillicons.dev/icons?i=unity,qt&perline=4" />
   </a>
 </p>
 
